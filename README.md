@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 ---
-Live Demo - https://app.netlify.com/sites/codeforces-potd/overview
+Live Demo - https://codeforces-potd.netlify.app/
 
 ---
 Currently, two official plugins are available:
